@@ -15,3 +15,5 @@ git add *.html
 git add .
 //commit changes
 git commit
+//commit other changes
+git commit -m 'change app.js'
