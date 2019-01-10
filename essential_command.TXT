@@ -13,3 +13,5 @@ git rm --cached index.html
 git add *.html
 //add every files
 git add .
+//commit changes
+git commit
