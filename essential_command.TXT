@@ -1,0 +1,15 @@
+git --version
+touch index.html
+//initiate git
+git init
+//create config
+git config --global user.name 'Mesbah Emami'
+git config --global user.email 'emamim612'
+//add files to git
+git add index.html
+//untrack files from git
+git rm --cached index.html
+//add all files with specified format
+git add *.html
+//add every files
+git add .
